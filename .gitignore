@@ -1,0 +1,5 @@
+**/.env
+test_files/**
+**/dist/**
+**/build/**
+**/pdf/**
